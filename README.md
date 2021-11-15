@@ -5,16 +5,16 @@
 Project: Sumi (Working title)
 >[Notes on the name](https://en.wikipedia.org/wiki/Japanese_calligraphy) (Check the tools section)
 ### Platform
-The game will run on windows x64 based machines, using a keyboard and mouse for inputs. A possible alternative to keybaord and mouse could be using Xinput controllers as Unreal supports those naitively and it shouldn't be too difficult to implement.
+The game will run on windows x64 based machines, using a keyboard and mouse for inputs. A possible alternative to keyboard and mouse could be using Xinput controllers as Unreal supports those naitively and it shouldn't be too difficult to implement.
 ### Constraints
-While we've now made a game in Unreal, and are on the whole feeling much more confidant that with our first game, We still don't have much experiance in 3D games, pathfidning or using C++ in unreal.
+While we've now made a game in Unreal, and are on the whole feeling much more confident that with our first game, We still don't have much experience in 3D games, pathfinding or using C++ in unreal.
 The deadline for this project is January 5th which gives us 7 Weeks to create a playable build.
 ### Submitter
 Team Uncreatives, Consisting of Dylan Rees, Josh Hole, Mateusz Banachowski and Stuart Griffiths.
 ### Key Target
 Project: Sumi (working title) Is a Hack and Slash adventure game where the player draws in their own battlefield through their attacks.
 ### Brief Description
-The game will focus hevily on combat, and keeping combos while the player's attack will create areas of "ink" that will damage enemies and allow the player to use as platforms. This will make the player have to decide what types of attacks they want to use during combat, as large sweeping attacks will leave larger areas where they can no longer stand on. 
+The game will focus heavily on combat, and keeping combos while the player's attack will create areas of "ink" that will damage enemies and allow the player to use as platforms. This will make the player have to decide what types of attacks they want to use during combat, as large sweeping attacks will leave larger areas where they can no longer stand on. 
 ### Key Features
 The player will have a diverse combo system at their disposal, stringing together different attacks to defeat their enemies.
 Attacks will create lines of ink in the air, which the player can use as a platform or wall to gain a tactical advantage over their enemies.
