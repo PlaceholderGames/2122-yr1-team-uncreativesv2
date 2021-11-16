@@ -1,5 +1,19 @@
 # 2122-yr1-team-uncreativesv2
 2021 CS1S464
+
+## Contents
+- [2122-yr1-team-uncreativesv2](#2122-yr1-team-uncreativesv2)
+  * [Game Concept](#game-concept)
+    + [Game Name](#game-name)
+    + [Platform](#platform)
+    + [Constraints](#constraints)
+    + [Submitter](#submitter)
+    + [Key Target](#key-target)
+    + [Brief Description](#brief-description)
+    + [Key Features](#key-features)
+    + [Additional Selling Points](#additional-selling-points)
+    + [Reference](#reference)
+    + [Comments](#comments)
 ## Game Concept
 ### Game Name
 Project: Sumi (Working title)
