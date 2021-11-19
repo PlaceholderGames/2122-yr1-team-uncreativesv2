@@ -65,8 +65,27 @@ The game will have a oriental artstyle focusing on caligraphy during the Tang dy
 ## Game Design
 ### Game Overview
 #### Philosophy
+This game doesn't have much in terms of an underlying philosophy. We just wanted to make a game we thought sounded cool.
 ### Feature Set
 #### Common Questions
+>What is the game?
+
+Project: Sumi is a hack and slash adventure game where the player uses a brush as a weapon, which can be used to draw platforms into the world and affect the world around them. The player will travel through the various folating islands within the world with the quest of re-connecting the islands while solcing disputes between warring factions, and making a lot of allies along the way.
+>Why make the game?
+
+[Awnser](https://youtu.be/psKBsApwsDM?autoplay=1)
+>Where does the game take place?
+
+The game takes place in an as yet unnamed floating world, consiting of many scattered floating islands. Each island will have a unique look and feel, along with inhabitants and struggles.
+>What do I control?
+
+You control the currently unnamed protagonist character on their quest to re-unite the shattered islands of the world. The protagonist will use a brush as a weapon to attak their enemies and also create terrain that they can use to their advantage.
+>What's the main focus?
+
+The game will focus on the combat system extencively, with an emphasis on using creative and unique combos to dominate your opponents. The player will be rewarded for more "interesting" combos rather than just using the same attack over and over again.
+>What's different?
+
+In the market there is a noticible shift towards laregely story driven games and multiplayer games, with the biggest genres being FPS games. We thought a game focusing on the gameplay first would be a nice change of pace from the usual. We've also never seen a hack and slash game which creates terrain around the player dynamically.
 #### General Features
 #### Multiplayer Features
 #### Editor
