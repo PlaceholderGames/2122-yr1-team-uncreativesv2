@@ -25,7 +25,6 @@
     + [Weapons](#weapons)
     + [Musical Scores and Sound Effects](#musical-scores-and-sound-effects)
     + [Single-Player Game](#single-player-game)
-    + [Multiplayer Game](#multiplayer-game)
     + [Character Rendering](#character-rendering)
     + [World Editing](#world-editing)
     + [Extra Miscellaneous Stuff](#extra-miscellaneous-stuff)
@@ -65,29 +64,9 @@ The game will have a oriental artstyle focusing on caligraphy during the Tang dy
 ## Game Design
 ### Game Overview
 #### Philosophy
-This game doesn't have much in terms of an underlying philosophy. We just wanted to make a game we thought sounded cool.
 ### Feature Set
 #### Common Questions
->What is the game?
-
-Project: Sumi is a hack and slash adventure game where the player uses a brush as a weapon, which can be used to draw platforms into the world and affect the world around them. The player will travel through the various folating islands within the world with the quest of re-connecting the islands while solcing disputes between warring factions, and making a lot of allies along the way.
->Why make the game?
-
-[Awnser](https://youtu.be/psKBsApwsDM?autoplay=1)
->Where does the game take place?
-
-The game takes place in an as yet unnamed floating world, consiting of many scattered floating islands. Each island will have a unique look and feel, along with inhabitants and struggles.
->What do I control?
-
-You control the currently unnamed protagonist character on their quest to re-unite the shattered islands of the world. The protagonist will use a brush as a weapon to attak their enemies and also create terrain that they can use to their advantage.
->What's the main focus?
-
-The game will focus on the combat system extencively, with an emphasis on using creative and unique combos to dominate your opponents. The player will be rewarded for more "interesting" combos rather than just using the same attack over and over again.
->What's different?
-
-In the market there is a noticible shift towards laregely story driven games and multiplayer games, with the biggest genres being FPS games. We thought a game focusing on the gameplay first would be a nice change of pace from the usual. We've also never seen a hack and slash game which creates terrain around the player dynamically.
 #### General Features
-#### Multiplayer Features
 #### Editor
 #### Gameplay
 ### The Game World
@@ -104,6 +83,7 @@ In the market there is a noticible shift towards laregely story driven games and
 ### Game Characters
 #### Overview
 #### Creating a character
+Undecided if this feature will be implemented, possibily in the future.
 #### Enemies and Monsters
 ### User Interface
 #### Overview
@@ -121,20 +101,26 @@ In the market there is a noticible shift towards laregely story driven games and
 #### Single Player Game Details
 #### Story
 #### Hours of Gameplay
+There's a planned endless mode, which will of course provided an indefinite amount of hours which can be played. There will be a planned story mode, but hard to quantify the amount of time it would require for completion.
 #### Victory Condition
+The endless mode will naturally not have a victory condition, althought there will be leaderboards for the players to try and beat. The story mode victory condition will be the player connect each of the islands together. 
 ### Multiplayer Game
 #### Overview
-#### Max Playes
-#### Servers
+There will be no actual tranditional multiplayer aspect of the game apart from leaderboards which the player will be able to compete against each other.
 #### Customisation
-#### Internet
-#### Gaming Sites
+The only available customisation which can be found by the player will be differing weapons and possibly character customisation (Still undecided if this feature will be included in the final product).
 #### Persitence
+The world will not be persistent.
 #### Saving and Loading
+Undecided, will discuss the idea later.
 ### Character Rendering
 #### Overview
+Cel-shading will be used for the character rendering, to give the characters a more stylised look and attempting to match the asthetics of Ōkami.
 #### Character Rendering Details
+The charcter rendering would ideally include cel-shading. Brief explanation: Using flat coloures in order to make an 2D object, while having 3D aspects. 
 ### World Editing
 #### Overview
+There will be light elements of world editing, where the player can create their own structures. 
 #### World Editing Details
+The player will be able to 'draw' platforms and barriers, which can be used for 'crowd control' of enemies and there will be a variety of different inks with special properities. There's also the proprosed idea of a special type of paint which will corriode the landscape, to create holes, trenches e.t.c. However, it's undecided if this mechanic will make it into the final product.
 ### Extra Miscellaneous Stuff
