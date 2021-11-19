@@ -14,6 +14,21 @@
     + [Additional Selling Points](#additional-selling-points)
     + [Reference](#reference)
     + [Comments](#comments)
+  * [Game Design](#game-design)
+    + [Philosophy](#philosophy)
+    + [Common Questions](#common-questions)
+    + [Feature Set](#feature-set)
+    + [The Game World](#the-game-world)
+    + [The World Layout](#the-world-layout)
+    + [Game Characters](#game-characters)
+    + [User Interface](#user-interface)
+    + [Weapons](#weapons)
+    + [Musical Scores and Sound Effects](#musical-scores-and-sound-effects)
+    + [Single-Player Game](#single-player-game)
+    + [Multiplayer Game](#multiplayer-game)
+    + [Character Rendering](#character-rendering)
+    + [World Editing](#world-editing)
+    + [Extra Miscellaneous Stuff](#extra-miscellaneous-stuff)
 ## Game Concept
 ### Game Name
 Project: Sumi (Working title)
@@ -46,3 +61,61 @@ The game will have a oriental artstyle focusing on caligraphy during the Tang dy
 <img src="https://s3.gaming-cdn.com/images/products/2297/screenshot/game-steam-okami-hd-wallpaper-5.jpg" width="444" height="250">
 
 ### Comments
+
+## Game Design
+### Game Overview
+#### Philosophy
+### Feature Set
+#### Common Questions
+#### General Features
+#### Multiplayer Features
+#### Editor
+#### Gameplay
+### The Game World
+#### Overview
+#### World Feature (replace with actual world feature.
+#### The Physical World
+#### Rendering System
+#### Camera
+#### Game Engine
+#### Lighting Models
+### The World Layout
+#### Overview
+#### World Layour Details
+### Game Characters
+#### Overview
+#### Creating a character
+#### Enemies and Monsters
+### User Interface
+#### Overview
+#### User Interface Details
+### Weapons
+#### Overview
+#### Weapons Details
+### Musical Scores and Sound Effects
+#### Overview
+#### Red Book Audio
+#### 3D Sound
+#### Sound Design
+### Single-Player Game
+#### Overview
+#### Single Player Game Details
+#### Story
+#### Hours of Gameplay
+#### Victory Condition
+### Multiplayer Game
+#### Overview
+#### Max Playes
+#### Servers
+#### Customisation
+#### Internet
+#### Gaming Sites
+#### Persitence
+#### Saving and Loading
+### Character Rendering
+#### Overview
+#### Character Rendering Details
+### World Editing
+#### Overview
+#### World Editing Details
+### Extra Miscellaneous Stuff
