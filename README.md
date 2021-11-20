@@ -86,24 +86,54 @@ The game will focus on the combat system extencively, with an emphasis on using 
 
 In the market there is a noticible shift towards laregely story driven games and multiplayer games, with the biggest genres being FPS games. We thought a game focusing on the gameplay first would be a nice change of pace from the usual. We've also never seen a hack and slash game which creates terrain around the player dynamically.
 #### General Features
+Player created arenas.
+Extencive Combo system.
+3D graphics
 #### Editor
+The player creates features in the combat area as they fight
 #### Gameplay
+Key focus on the combat. The combat is the biggest focus in this game.
+- The player gets acess to 3 attacks, A light attack, a heavy attack, and a ranged attack.
+- The attacks preformed change depending on how the the user inputs prior, if they're in the air or not and the previous attacks.
+- Depending on how varied and unique the combos are, the player will be rewarded with higher rankings and maybe higher damage
 ### The Game World
 #### Overview
-#### World Feature (replace with actual world feature.
-#### The Physical World
+The world is divided into many floating islands, with each island having a unique biosphere.
+The area down below will not be explored in this game but it could be hinted to as part of a final boss and explored in a future game.
+A lot of the islands can be explored with a few side quests and collectables dotted around.
+#### Floating Islands
+The game takes place on top of many islands floating in the sky. Each island was originally part of a single whole part but a misfire of a super-weapon long ago launched part of the continent into the heavens and the fragments still remain. In the present, the people who live on the islands do not know about the world below and the game will not focus on it. 
+#### The world is magical
+Elements of magic persist within the floating islands, the significance of which vary between the islands. In the starting island, magic is almost non-existant, while on other islands it could be the driving force behind their socio-economic heiriarchy.
+#### Mostly empty
+Despite having really nice setpeices, the world is mostly empty. The areas between the islands is called "The Vast Expance" because it is largely empty. The islands are where the gameplay happens. The islands have a lot to collect and explore on them, but beyond the islands there's not much there as far as the player knows.
+### The Physical World
+#### Key areas
+##### Tori Archipeligo
+As the starting island, this island is largely peaceful. The archipeligo is inhabited by the Tori village which at the start of the game only covers a single island. The village island is a dense forest with lots of rivers seperating it, while the surrounding islands contain some more forest and a large grassy plateu. During the first part of the story the player will focus on connecting the village to the surrounding islands using their brush to resolve the village's overpopulation problem.
+##### 
 #### Rendering System
+The game will have a cell-shaded artstyle with excgurated outlines to show the rough and hand-drawn art-style.
+For rendering we will be using Unreal Engine's built in rendering system and using global shaders to handle the shading.
 #### Camera
+The camera will orbit the player and allow the player them to focus onto an enemy, keeping the camera behind the player panning it around the player. 
 #### Game Engine
+To handle the majority of the low level systems we will be using Unreal Engine version 4.25.4.
 #### Lighting Models
+The game will use a global illumination system, to allow more natural looking shadows and much more stylistic control. We be using standard vertex shading and rasterisation techniques as the majority of hardware should be able to run it, as opposed to if we made all of the lighting in the game be ray-traced.
 ### The World Layout
 #### Overview
-#### World Layour Details
+The player will start out on the Tori Archipeligo, starting on the village island that will serve as a movement tutorial and quest hub. The player will then move out to the plateu island that will act as combat tutorial and help with teaching the player how painting works in a gameplay and story sense.
+Then the player will move out to another island, solve their unique problems and connect the island to the Tori Archipeligo. More details will be filled in later, but the demo won't go past the Archipeligo.
+#### World Layout Details
 ### Game Characters
 #### Overview
+The player character - a blank slate for the player to project themselves onto.
+Clyde - A cheery childhood friend who's really enthusiastic about building bridges. They call themselves "Bridge Builder Supreme".
 #### Creating a character
 Undecided if this feature will be implemented, possibily in the future.
 #### Enemies and Monsters
+Enemies might include island's local fauna, or strange shadowy blobs that float towards the player.
 ### User Interface
 #### Overview
 #### User Interface Details
@@ -120,6 +150,7 @@ Undecided if this feature will be implemented, possibily in the future.
 #### Single Player Game Details
 #### Story
 Not of high-priority as of right now, will likely be explored further on in developed.
+The player starts of on Tori Island. It is a heavily forested island with another island not to far away, The player's village is bustling but the player is informed by the village elder that the island they're on is too crowded, and they need more space beyond this island to expand their farms to sustain everyone. But seeing as there is no way to expand the island, they might have to resort to desperate measueres. This is where the player character would run away from the village and stumble into an aincent ruin, where they find the brush weapon than can create physical objects by just painting. The player character then makes their way across to a nearby island where they make their first combat encounter.
 #### Hours of Gameplay
 There's a planned endless mode, which will of course provided an indefinite amount of hours which can be played. There will be a planned story mode, but hard to quantify the amount of time it would require for completion.
 #### Victory Condition
