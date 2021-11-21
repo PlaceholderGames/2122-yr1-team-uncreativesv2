@@ -136,18 +136,32 @@ Undecided if this feature will be implemented, possibily in the future.
 Enemies might include island's local fauna, or strange shadowy blobs that float towards the player.
 ### User Interface
 #### Overview
-#### User Interface Details
+The User Interface will contain a few key elements. Namely a health bar, an ink bar, and a style rating.
+##### Health Bar
+The bar will display the player's health as a percentage.
+##### Ink Bar
+This bar will show how much ink the player can draw with as part of their combo. This bar can be replenished by attacking enemies.
+##### Style Rating
+This will be a letter based grade that show how well the game thinks the player is doing. It will increase as the player pulls off more complex combos, and avoids getting hit.
 ### Weapons
 #### Overview
-#### Weapons Details
+The weapons in the game will all be exagurated drawing tools, Each tool has the ability to affect the arena the player is in.
+##### Worldshaper's Brush
+This magical brush was found in the ruins of an lost temple on Tori Island. It creates relitively quick and simple storkes of ink, which can be used as platforms or area-of-denial zones. This is the player's only weapon at the start of the game.
+##### Whitesmith's Brands
+This is a set of stamping tools which are very quick and short range. However, once an enemy is defeated, any stamps on them is launched off onto a nearby enemy dealing damage. This weapon doesn't do much in terms of creating terrain, but it should offer unique combet scenarios.
+##### Skywrite's Steambrush
+This is a relitively slow and wide area weaopn, Focusing on generating clouds of ink that damage enemies and allow the player to travel somewhat.
 ### Musical Scores and Sound Effects
 #### Overview
-#### Red Book Audio
+Ideally, The game soundtrack would be dynamic and horisonatally mixed to match the style rating of the player. Although we recognise that that could be outside of scope and budget, so some simple high action but traditional soundng music can be used. The sound effects can be either found from an online free library, or recorded by the developers.
 #### 3D Sound
+To handle sound we will be using Unreal Engine's built in sound system, which will handle 3D audio for us.
 #### Sound Design
+In terms of sound design we have no clue what we are doing, so we're just going to wing it.
 ### Single-Player Game
 #### Overview
-#### Single Player Game Details
+The game is a Hack and slash adventure game, where the player travels throug hthe game world, figthing large groups of enemies to bring together all of the shattered islands of the vast expance. Each island the player travels to will have a unique look and feel, along with collectables and side-quests. There will also be an endless mode where the player must simply defeat as many enemies as they can and survuve for as long as possible.
 #### Story
 Not of high-priority as of right now, will likely be explored further on in developed.
 The player starts of on Tori Island. It is a heavily forested island with another island not to far away, The player's village is bustling but the player is informed by the village elder that the island they're on is too crowded, and they need more space beyond this island to expand their farms to sustain everyone. But seeing as there is no way to expand the island, they might have to resort to desperate measueres. This is where the player character would run away from the village and stumble into an aincent ruin, where they find the brush weapon than can create physical objects by just painting. The player character then makes their way across to a nearby island where they make their first combat encounter.
